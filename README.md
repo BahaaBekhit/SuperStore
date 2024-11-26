@@ -1,6 +1,6 @@
 # SuperStore
 ## Insights :
-1- Total of Sales , profit , products , orders and average of discount
+1- Total of Sales , profit , products , orders and average of discount 
 2- Profits and the sales Over time 
 4- Most 5 profitable and non-profitable Products 
 5- Map with state sales distribution and top 3 states based on the profits 
