@@ -1,5 +1,7 @@
 # SuperStore Dashboard Insights
 
+![1](https://github.com/user-attachments/assets/0a299deb-7f9c-4427-9d5b-48401d3adfcf)
+
 ## Insights
 
 1. **Key Metrics**:
