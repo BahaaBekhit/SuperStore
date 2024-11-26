@@ -1,6 +1,5 @@
 # SuperStore Dashboard Insights
-
-![1](https://github.com/user-attachments/assets/0a299deb-7f9c-4427-9d5b-48401d3adfcf)
+![image](https://github.com/user-attachments/assets/7382300f-f95f-4d7a-8b48-d01551a1dc3e)
 
 ## Insights
 
